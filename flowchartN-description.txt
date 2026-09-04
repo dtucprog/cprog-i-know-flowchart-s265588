@@ -1,0 +1,13 @@
+You are an engineer who wants to determine the optimal time to pet your dog. Since you are busy with assignments, you cannot pet the dog constantly. Instead, you have decided to pet the dog only when it shows specific signs of wanting attention.
+
+The following inputs are being monitored:
+
+    dog_location
+
+    is_dog_licking_your_hand
+
+    is_dog_mushing_its_face_against_you
+
+The variable my_position is pre-defined and automatically updated.
+
+If the dog is within one meter of your position and it is either licking your hand or mushing its face against you, you should start petting the dog. Otherwise, continue working on your assignments.
